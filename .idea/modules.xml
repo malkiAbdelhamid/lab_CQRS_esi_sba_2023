@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TP-CQRS-2023.iml" filepath="$PROJECT_DIR$/TP-CQRS-2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-api/core-api.iml" filepath="$PROJECT_DIR$/core-api/core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-command-library/ms-command-library.iml" filepath="$PROJECT_DIR$/ms-command-library/ms-command-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-command-library_v2/ms-command-library (1).iml" filepath="$PROJECT_DIR$/ms-command-library_v2/ms-command-library (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-command-library_with_members/ms-command-library_with_members.iml" filepath="$PROJECT_DIR$/ms-command-library_with_members/ms-command-library_with_members.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-editeur/ms-editeur.iml" filepath="$PROJECT_DIR$/ms-editeur/ms-editeur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-query-join/ms-query-join.iml" filepath="$PROJECT_DIR$/ms-query-join/ms-query-join.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-query-library/ms-query-library.iml" filepath="$PROJECT_DIR$/ms-query-library/ms-query-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-query-library_v2/ms-query-library (1).iml" filepath="$PROJECT_DIR$/ms-query-library_v2/ms-query-library (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/state_stored_library/state_stored_library.iml" filepath="$PROJECT_DIR$/state_stored_library/state_stored_library.iml" />
+    </modules>
+  </component>
+</project>
